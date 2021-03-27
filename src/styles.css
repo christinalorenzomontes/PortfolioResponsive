@@ -52,7 +52,7 @@ p {
     font-weight: 300;
 }
 
-.subtext {
+.subtext, .cv-text {
     font-size: 15px;
     font-weight: 300;
 }
